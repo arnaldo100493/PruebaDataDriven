@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jar/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/SeleniumHQ/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/testng/testng-6.8.1-dist.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
